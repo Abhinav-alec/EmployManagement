@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+  color: #fff; /* Set default text color to white */
+  background-color: #111; /* Dark background */
+}
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
